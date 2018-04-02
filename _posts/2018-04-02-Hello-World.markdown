@@ -3,7 +3,8 @@ published: true
 ---
 ## Hello World
 
-Hello, my blog！Master Grey's Says ——
+Hello, my blog！Master Grey（灰大师） Says ——
+
 
 ## 缘起
 
