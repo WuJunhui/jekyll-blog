@@ -18,7 +18,7 @@ published: true
 
 根据我的一点不成熟的观察，在检测、分割等其他视觉任务上，大家比较倾向于用 ResNet 系列做 backbone 来跑 baseline. Google Research 自己出的一篇文章[2]对不同的 backbone 和检测框架作对比，在相同的Inference Time 的情况下， ResNet-101 基本上优于 Inception-v3。
 
-![Accuracy vs time]({{site.baseurl}}/_posts/AccuracyVsTime.png)
+![AccuracyVsTime.png]({{site.baseurl}}/images/AccuracyVsTime.png)
 
 
 我的理解是 Residual 的构造更有利于保留底层的特征，所以在检测、分割等任务上泛化性更好。后续有一些针对检测的网络设计，如 MobileNet-V2, ShuffleNet, DetNet等, Resdual 构造基本上是标配了。
