@@ -11,4 +11,7 @@ published: true
 
 ## 一点对论文的吐槽
 
-别的且不说，就看 Inception-V3 的论文中为了刷高指标是怎么评估的：4个 Models, 144个 Crops 的 ensemble[my internal link][https://arxiv.org/pdf/1512.00567.pdf], 显得有点浮夸。相对来看 ResNet 的论文清爽很多。
+别的且不说，就看 Inception-V3 的论文中为了刷高指标是怎么评估的：4个 Models, 144个 Crops 的 ensemble[1][Rethinking the Inception Architecture for Computer Vision], 显得有点浮夸。相对来看 ResNet 的论文清爽很多。
+
+
+[Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567.pdf)
